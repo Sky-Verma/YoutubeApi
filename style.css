@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: --mdb-font-roboto;
+    padding-right: 5%;
+    padding-left: 5%;
+}
