@@ -20,7 +20,7 @@ fetch(VideoUrl + `?part=snippet&type=video&maxResults=10&key=AIzaSyA2zCj0pIUF7sI
     <br>
     <br>
    <table class="table text-center">
-    <thead class="table-light text-center
+    <thead class="table-light text-dark text-center
         <tr>
             <td>Property</td>
             <td>Value</td>
